@@ -1,4 +1,25 @@
 # Smart Weather Monitoring and Alert System using Arduino and IoT
+![repo](https://github.com/user-attachments/assets/fde8e48c-6658-45de-9550-8e884651f9d8)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Introduction
 This project aims to develop an advanced weather monitoring system using Arduino, Tinkercad for simulation, and IoT for remote data access. The system will collect real-time weather data, including temperature, humidity, atmospheric pressure, and air quality, and display the data on an LCD screen and a web-based dashboard. Additionally, it will send automated alerts via email or SMS when extreme weather conditions are detected.
